@@ -1,0 +1,11 @@
+{
+  "name": "mbd-mod",
+  "version": "0.0.1",
+  "factorio_version": "0.16",
+  "title": "Module Bot Distribution",
+  "author": "Daarcm",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds the ability to install modules from bots when standing too far away",
+  "dependencies": []
+}
